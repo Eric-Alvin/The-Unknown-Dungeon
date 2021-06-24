@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=nm\ h\ atk
+comment1.target=Enemy(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ fight()
+numComments=3
